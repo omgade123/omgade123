@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om</h1>
 <h3 align="center">Blockchain dev and enthusiastic</h3>
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/Q5e7EFiLLVMAAAAC/ethereum.gif">
+<img align="right" alt="coding" width="300" src="https://c.tenor.com/Q5e7EFiLLVMAAAAC/ethereum.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omgade123&label=Profile%20views&color=0e75b6&style=flat" alt="omgade123" /> </p>
 
