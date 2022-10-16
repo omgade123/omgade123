@@ -1,7 +1,7 @@
 ![logo](https://github.com/omgade123/omgade123/blob/main/Screenshot%202022-10-17%2001.03.06.png)
 <h1 align="center">Hi 👋, I'm Om</h1>
 <h3 align="left">Blockchain Developer and enthusiastic</h3>
-
+<img align="right" alt="coding" width="350" src="https://c.tenor.com/Q5e7EFiLLVMAAAAC/ethereum.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omgade123&label=Profile%20views&color=0e75b6&style=flat" alt="omgade123" /> </p>
 
