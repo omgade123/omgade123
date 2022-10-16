@@ -1,4 +1,4 @@
-![logo](https://github.com/omgade123/omgade123/blob/main/om_gade07.png)
+![](https://github.com/omgade123/omgade123/blob/main/om_gade07%20(1).mp4)
 <h1 align="center">Hi 👋, I'm Om</h1>
 <h3 align="left">Blockchain Developer and enthusiastic</h3>
 
