@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om</h1>
-<h3 align="center">Diligently learning machine learning and its uses and Web Development also have great interest in WEB 3.0</h3>
+<h3 align="center"> Learning Machine Learning and its Use Cases and Web Development also have great interest in WEB 3.0</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omgade123&label=Profile%20views&color=0e75b6&style=flat" alt="omgade123" /> </p>
 
