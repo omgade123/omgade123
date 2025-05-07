@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om</h1>
-<h3 align="center"> Learning Machine Learning and its Use Cases and Web Development also have great interest in WEB 3.0</h3>
+<h3 align="center"> Learning Java and Machine Learning and its Use Cases and Web Development also have great interest in WEB 3.0</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omgade123&label=Profile%20views&color=0e75b6&style=flat" alt="omgade123" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/omgade11" target="blank"><img src="https://img.shields.io/twitter/follow/omgade11?logo=twitter&style=for-the-badge" alt="omgade11" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 💬 Ask me about **Python,ML and WEB 3.0**
+
+- 💬 Ask me about **Java, Python,ML and WEB 3.0**
 
 - 📫 How to reach me **omgade189@gmail.com**
 
